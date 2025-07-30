@@ -1,4 +1,3 @@
-//bassant
 # Object-Oriented Programming (OOP) in C++
 
 ## 📌 Coding Paradigms
