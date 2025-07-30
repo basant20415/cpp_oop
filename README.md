@@ -13,7 +13,7 @@
 
 ---
 
-## 🔷 OOP Entitiesssss
+## 🔷 OOP Entities
 
 - **Classes**  
 - **Objects** → An object is an instance of a class, created using the class constructor.
